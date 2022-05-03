@@ -1,5 +1,8 @@
 # kenny_sherry_scratch
 子承父业，码农的学习启蒙
+20220503 古诗 江南
+![image](https://user-images.githubusercontent.com/28592300/166453339-345257c9-ec25-4ba6-a99b-0bdfa20f08eb.png)
+
 
 20220501孙悟空大战牛魔王
 ![image](https://user-images.githubusercontent.com/28592300/166148149-310b6f65-a8f7-4a46-a2c2-9ab0fd2fa30f.png)
