@@ -1,5 +1,10 @@
 # kenny_sherry_scratch
 子承父业，码农的学习启蒙
+
+20220507 超人打臭虫
+![image](https://user-images.githubusercontent.com/28592300/167258394-145ada64-aec1-41a9-b0ba-7f5c14b061b2.png)
+
+
 20220503 古诗 江南
 ![image](https://user-images.githubusercontent.com/28592300/166453339-345257c9-ec25-4ba6-a99b-0bdfa20f08eb.png)
 
