@@ -1,6 +1,10 @@
 # kenny_sherry_scratch
 子承父业，码农的学习启蒙
 
+20220510 足球小将
+![image](https://user-images.githubusercontent.com/28592300/167646796-dc2f25ec-749c-4814-94dd-426fd8ea8f6f.png)
+
+
 20220507 超人打臭虫
 ![image](https://user-images.githubusercontent.com/28592300/167258394-145ada64-aec1-41a9-b0ba-7f5c14b061b2.png)
 
