@@ -1,6 +1,10 @@
 # kenny_sherry_scratch
 子承父业，码农的学习启蒙
 
+20220513 Scratch第8弹 篮球小将
+![image](https://user-images.githubusercontent.com/28592300/168295465-69dcdbe9-5a6d-4ecc-9392-f6cf2150be84.png)
+
+
 20220511 Scratch第7弹  环保小卫士
 ![image](https://user-images.githubusercontent.com/28592300/167867358-9640b5f5-ca26-482e-a73e-fc4cd189f245.png)
 
