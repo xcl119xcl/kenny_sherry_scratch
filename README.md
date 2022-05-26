@@ -1,5 +1,10 @@
 # kenny_sherry_scratch
 子承父业，码农的学习启蒙
+20220526 Scratch第10弹 刘畊红男孩爱跳绳
+![image](https://user-images.githubusercontent.com/28592300/170505053-e3526691-2427-440e-a950-4405821740fe.png)
+
+20220525 Scratch第9弹 数学小达人
+
 
 20220513 Scratch第8弹 篮球小将
 ![image](https://user-images.githubusercontent.com/28592300/168295465-69dcdbe9-5a6d-4ecc-9392-f6cf2150be84.png)
